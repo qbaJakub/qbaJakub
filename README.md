@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @qbaJakub (name Jakub == Jacob)
+- 👀 I’m interested in .net / c#
+- 🌱 I’m currently learning  .net / c#
